@@ -11,6 +11,19 @@ The scripts focus on:
 
 ---
 
+## Prepared Dataset Availability
+
+All prepared dataset versions (Aquarium and VHR10), including:
+
+* images
+* labels
+* train / val / test splits
+* corresponding `.yaml` files for YOLO training
+
+are available at the following **[Google Drive link](https://drive.google.com/drive/folders/1M4xL1qXdYsf2zb23SqTOgjLzlUW957Fk?usp=sharing)**
+
+---
+
 ## Datasets
 
 ### 1. Aquarium Dataset
@@ -129,19 +142,6 @@ VHR10_30
 ```
 
 Each version differs **only in training data size**, enabling controlled experiments.
-
----
-
-## Prepared Dataset Availability
-
-All prepared dataset versions (Aquarium and VHR10), including:
-
-* images
-* labels
-* train / val / test splits
-* corresponding `.yaml` files for YOLO training
-
-are available at the following **[Google Drive link](https://drive.google.com/drive/folders/1M4xL1qXdYsf2zb23SqTOgjLzlUW957Fk?usp=sharing)**
 
 ---
 
